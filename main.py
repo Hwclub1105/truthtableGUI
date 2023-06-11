@@ -52,5 +52,3 @@ while True:
             py.quit()
             sys.exit()
             
-
-print(stringOfContents(expression))
